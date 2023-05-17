@@ -50,6 +50,7 @@ func TestNilEqualNil(t *testing.T) {
 
 type DummyT struct {
 }
+
 func (t *DummyT) Errorf(format string, args ...interface{}) {
 	fmt.Printf(format, args...)
 }
