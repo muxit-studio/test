@@ -1,4 +1,4 @@
-module github.com/muxit/test
+module github.com/muxit-studio/test
 
 go 1.19
 
