@@ -1,4 +1,6 @@
 github.com/muxit-studio/color v0.0.0-20230517084649-45608a72bd40 h1:jdi08pGL3nzd7QFzma4q05G+9rXfPxBY78r5fKz7hiY=
 github.com/muxit-studio/color v0.0.0-20230517084649-45608a72bd40/go.mod h1:prRsg8oSKYV8GO2sF2s307B6mYV/Cc23Ns+fLBNQaCY=
+github.com/muxit-studio/color v0.1.0 h1:EOoXR84/7gFXrEHNzqSkzkTL5L83sfE5IYuYvi044gs=
+github.com/muxit-studio/color v0.1.0/go.mod h1:prRsg8oSKYV8GO2sF2s307B6mYV/Cc23Ns+fLBNQaCY=
 github.com/muxit-studio/columnize v0.0.0-20200819155840-d363dedc9af5 h1:obCrc7is/nSESaThP0xiszQDOVkM1EW6Xt8oIBp4FWI=
 github.com/muxit-studio/columnize v0.0.0-20200819155840-d363dedc9af5/go.mod h1:yJxjL3JBNNaKfDrGpXqzedt7sA73/EyyIyApAVsTT08=
